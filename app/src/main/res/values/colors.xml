@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="text_header_active">@android:color/white</color>
+    <color name="text_header_normal">#b3b3b3</color>
+    <color name="app_bacground">#eeeeee</color>
+
+    <color name="text_sub_header_active">@color/colorPrimary</color>
+    <color name="text_sub_header_normal">@color/text_header_normal</color>
+    <color name="app_bg">#eeeeee</color>
+</resources>

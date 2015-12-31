@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Wallpaper HD</string>
+    <string name="display_device">Độ Phân Giải: %1$d -  %2$d</string>
+    <string name="version_code">Version %s</string>
+    <string name="msg_updating_try_later">Đang cập nhật, vui lòng trở lại sau</string>
+    <string name="load_more">Xem Thêm</string>
+    <string name="set">Set</string>
+    <string name="download">Tải Xuống</string>
+    <string name="like">Thích</string>
+    <string name="wallpapers">Wallpapers for mobile</string>
+    <string name="toast_saved_failed">Xin Lỗi! Thất bại trong việc tải xuống wallpaper</string>
+    <string name="toast_saved">Wallpapaer đã được tải xuống #</string>
+    <string name="splash_error">Không thể tải wallpapers. Hãy xác minh lại tài khoản google của bạn ở màn hình Settings hoặc kiểm tra kết nối internet!</string>
+    <string name="msg_unknown_error">Xin Lỗi! Không Xác định được nguyên nhân lỗi.</string>
+    <string name="msg_wall_fetch_error">Xin Lỗi! Không thể load wallpaper. Hãy Xác minh tài khoản của bạn ở màn hình Settings hoặc kiểm tra kết nối mạng</string>
+
+
+
+    <!-- api PicasaWeb albums-->
+    <string name="base_url">https://picasaweb.google.com/data/feed/api/user/</string>
+    <!--Public albums list url-->
+    <string name="picasa_albums">kind=album&amp;alt=json</string><!--kind=album&alt=json-->
+    <!--Picasa album photos url-->
+    <string name="picasa_albums_photo_start">/albumid/</string>
+    <string name="picasa_album_photo_end">alt=json</string>
+    <!--Picasa recenlty added photos url-->
+    <string name="picasa_recently_added">kind=photo&amp;alt=json</string><!--kind=photo&alt=json-->
+</resources>
