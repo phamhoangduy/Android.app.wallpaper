@@ -1,1 +1,8 @@
 /build
+
+# Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+
